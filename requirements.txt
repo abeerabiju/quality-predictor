@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn>=1.7
+matplotlib
+pyarrow
+jinja2>=3.1
+notebook
+torch  # optional, only for the TCN section
